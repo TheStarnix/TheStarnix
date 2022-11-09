@@ -1,6 +1,8 @@
 ### 👋 Hey, I'm Théo ! 
 💼Student in Computer Science at La Rochelle Université.
+
 ✏️I develop Lua and Python programs. 
+
 🎮Gamer in the soul ;)
 
 ### ⚙️ My skills: 
