@@ -1,7 +1,7 @@
 <h1>👋 Hey, I'm Théo ! </h1>
 <div>
 <p>💼Student in Computer Science at University, honors Master Course of Engineering ("CMI" in French).</p> 
-<p>✏️I develop Lua and Python programs. </p>
+<p>✏️I code Lua and Python programs. </p>
 <p>🎮Gamer in the soul ;)</p>
 </div>
 
